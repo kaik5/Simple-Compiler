@@ -1,0 +1,2 @@
+# Simple-Compiler
+A Simple Compiler that  will read the program and make sure that its syntax and semantics are correct. If the syntaxor semantics are not correct, the compiler will output an error message as described later. If input programhas correct syntax and semantics, the compiler should evaluate the polynomial expressions in theSTARTsection of the program and the output of the compiler is the sequence of values resulting from the evaluationsof the polynomials in the START section.
