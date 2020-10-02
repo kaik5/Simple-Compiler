@@ -3,5 +3,15 @@ A Simple Compiler that  will read the program and make sure that its syntax and 
 
 <br>
 Demonstration of the program with input and output:
-![alt text here](error 1.png)
+![output](https://user-images.githubusercontent.com/34473749/94932713-4ed67500-047e-11eb-9af5-e91df778effd.png)
+<br>
+![error 1](https://user-images.githubusercontent.com/34473749/94932720-50a03880-047e-11eb-9ff8-e45743cefe25.png)
+<br>
+![error 2](https://user-images.githubusercontent.com/34473749/94932723-51d16580-047e-11eb-9b21-a46dccc01715.png)
+<br>
+![error 3](https://user-images.githubusercontent.com/34473749/94932727-5269fc00-047e-11eb-9898-8009293e35a2.png)
+<br>
+![error 5](https://user-images.githubusercontent.com/34473749/94932732-539b2900-047e-11eb-8d04-97e2e1e87e36.png)
+<br>
+![No error](https://user-images.githubusercontent.com/34473749/94932736-5433bf80-047e-11eb-97ca-8c44afb5e432.png)
 
